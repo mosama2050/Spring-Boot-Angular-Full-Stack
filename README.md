@@ -1,1 +1,1 @@
-# Spring-Boot-Angular-Full-Stack
+# Spring-Boot-Angular-Full-Stack basic crud Fast Recap
